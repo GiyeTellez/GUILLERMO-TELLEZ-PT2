@@ -15,3 +15,8 @@ Una vez tenemos el apache instalado es cruicial instalar la base de datos. Para 
 
 Escribe la contraseña que utilices para entrar al usuario del pc
 <img src="Contraseña Base de datos.png" alt="Contraseña que te pide cuando la base de datos">
+
+Una vez instalado el servidor apache y la base de datos instalaremos algunas librerias de php (el lenguaje principal que usan las aplicaciones). Para ello utilicaremos los siguientes comandos
+"sudo apt install -y php libapache2-mod-php"
+"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"
+
