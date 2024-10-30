@@ -14,4 +14,4 @@ Una vez tenemos el apache instalado es cruicial instalar la base de datos. Para 
 "sudo apt install -y mysql-server" De nuevo la termnial te pedira una contraseña. 
 
 Escribe la contraseña que utilices para entrar al usuario del pc
-<img src="Contraseña apache.png" alt="Contraseña que te pide cuando la base de datos, no la del apache">
+<img src="Contraseña Base de datos.png" alt="Contraseña que te pide cuando la base de datos">
