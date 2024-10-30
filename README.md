@@ -11,16 +11,16 @@ Primero abrimos la terminal desde nuestro dispositivo
 
 Una vez actualizada la maquina instalaremos el servidor web apache utilizando el siguiente comando 
 
-"sudo apt install -y apache2"
+<h2>"sudo apt install -y apache2"</h2>
 
 Una vez tenemos el apache instalado es cruicial instalar la base de datos. Para ello escribiremos el siguiente comando de nuevo en la terminal
 
-"sudo apt install -y mysql-server" De nuevo la termnial te pedira una contraseña. 
+<h2>"sudo apt install -y mysql-server"</h2> De nuevo la termnial te pedira una contraseña. 
 
 Escribe la contraseña que utilices para entrar al usuario del pc
 <img src="Contraseña Base de datos.png" alt="Contraseña que te pide cuando la base de datos">
 
 Una vez instalado el servidor apache y la base de datos instalaremos algunas librerias de php (el lenguaje principal que usan las aplicaciones). Para ello utilicaremos los siguientes comandos
-"sudo apt install -y php libapache2-mod-php"
-"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"
+<h2>"sudo apt install -y php libapache2-mod-php"</h2>
+<h2>"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"</h2>
 
