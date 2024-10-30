@@ -17,7 +17,7 @@
 
 <h3>"sudo apt install -y mysql-server"</h3> De nuevo la termnial te pedira una contraseña. 
 
-<h2>Escribe la contraseña que utilices para entrar al usuario del pc</h2>
+Escribe la contraseña que utilices para entrar al usuario del pc
 <img src="Contraseña Base de datos.png" alt="Contraseña que te pide cuando la base de datos">
 
 <h2>Una vez instalado el servidor apache y la base de datos instalaremos algunas librerias de php (el lenguaje principal que usan las aplicaciones). Para ello utilicaremos los siguientes comandos</h2>
