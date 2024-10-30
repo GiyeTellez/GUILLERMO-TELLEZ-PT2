@@ -24,4 +24,6 @@ Escribe la contraseña que utilices para entrar al usuario del pc
 <ol>
 <li><h3>"sudo apt install -y php libapache2-mod-php"</h3></li>
 <li><h3>"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"</h3></li>
+    De nuevo tendras que volver a poner la contraseña con la que entras al usuario
+    <img src="Contraseña Libreria 2.png" alt="Descripció de la imatge">
 </ol>
