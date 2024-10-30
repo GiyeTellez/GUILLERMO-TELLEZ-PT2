@@ -8,9 +8,11 @@ Primero abrimos la terminal desde nuestro dispositivo
 </ul>
 
 Una vez actualizada la maquina instalaremos el servidor web apache utilizando el siguiente comando 
+
 "sudo apt install -y apache2"
 
 Una vez tenemos el apache instalado es cruicial instalar la base de datos. Para ello escribiremos el siguiente comando de nuevo en la terminal
+
 "sudo apt install -y mysql-server" De nuevo la termnial te pedira una contraseña. 
 
 Escribe la contraseña que utilices para entrar al usuario del pc
