@@ -1,3 +1,5 @@
+<h1>MANUAL PARA INSTALAR OWNCLOUD EN UBUNTU</h1>
+
 Primero abrimos la terminal desde nuestro dispositivo
   Actualizamos nuestra maquina usando los siguientes comandos en la terminal
 <ul>  
