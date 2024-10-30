@@ -5,7 +5,7 @@ Primero abrimos la terminal desde nuestro dispositivo
 <ol>  
 <li><h2>"sudo apt update"</h2> La terminal te pedira una contraseña, escribe la contraseña que usas para entrar en tu usuario del pc</li>
 <img src="Imatge enganxada.png" alt="Contraseña primer comando">
-<li>"sudo apt upgrade" Una vez escrito este codigo llegara un momento donde te pregunte si deseas continuar con la instalacion. Pulsa la tecla "S" y "ENTER" para continuar</li>
+<li><h2>"sudo apt upgrade"</h2> Una vez escrito este codigo llegara un momento donde te pregunte si deseas continuar con la instalacion. Pulsa la tecla "S" y "ENTER" para continuar</li>
 <img src="Imatge enganxada (2).png" alt="Contraseña primer comando">
 </ol>
 
