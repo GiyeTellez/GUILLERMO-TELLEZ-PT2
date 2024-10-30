@@ -21,6 +21,7 @@ Escribe la contraseña que utilices para entrar al usuario del pc
 <img src="Contraseña Base de datos.png" alt="Contraseña que te pide cuando la base de datos">
 
 <h2>Una vez instalado el servidor apache y la base de datos instalaremos algunas librerias de php (el lenguaje principal que usan las aplicaciones). Para ello utilicaremos los siguientes comandos</h2>
-<h3>"sudo apt install -y php libapache2-mod-php"</h3>
-<h3>"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"</h3>
-
+<ol>
+<li><h3>"sudo apt install -y php libapache2-mod-php"</h3><li>
+<li><h3>"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"</h3><li>
+</ol>
