@@ -49,7 +49,7 @@ Escribe la contraseña que utilices para entrar al usuario del pc
 <h3>"GRANT ALL ON bbdd.* to 'usuario'@'localhost';"</h3>
 <h2>Si todos los pasos se han realizado correctamente tendria que verse algo asi</h2>
 
-<img src="imatge.jpg" alt="Descripció de la imatge">
+<img src="Captura desde 2024-11-06 13-13-31.png" alt="Descripció de la imatge">
 
 <h2>Ahora ya hemos acabado con la base de datos, solo nos queda salir de ella usando el siguiente sencillo comando</h2>
 <h3>"exit"</h3>
