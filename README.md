@@ -27,3 +27,13 @@ Escribe la contraseña que utilices para entrar al usuario del pc
     De nuevo tendras que volver a poner la contraseña con la que entras al usuario
     <img src="Contraseña Libreria 2.png" alt="Descripció de la imatge">
 </ol>
+<h2>Una vez hemos echo todos los pasos anteriores reiniciamos el apache con el siguiente comando</h2>
+<h3>"sudo systemctl restart apache2"</h3>
+
+<h2>Ahora es momento de entrar en la consola, utiliza el comando...</h2>
+<h3>"sudo mysql"</h3>
+
+<h2>Una vez estamos dentro de la consola vamos a crear una base de datos bajo el nombre "bbdd". Es importante recordar ese nombre para un futuro para crearla usa el siguiente codigo</h2>
+<h3>"CREATE DATABASE bbdd;"</h3>
+
+<h2>No hay que olvidarnos de que </h2>
