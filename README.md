@@ -38,5 +38,14 @@ Escribe la contraseña que utilices para entrar al usuario del pc
 
 <h2>Todavia dentro de la consola...
   <img src="Captura desde 2024-11-06 13-13-31.png" alt="Captura de la consola antes de crear el user">
+  
   No hay que olvidarnos de que se tiene que identificar la IP desde donde se accedera a la base de datos. En este caso "localhost" Para ello usa el siguiente comando</h2>
 <h3>"CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';"</h3>
+
+<h2>Todavia dentro de la consola tendria que verse algo así...
+  <img src="Screen despues de crear el usuario.png" alt="Captura de la consola despues de crear el user">
+
+<h2>Una vez hemos creado el usuario es necesario darle permisos de administrador, para ello utilizamos el siguiente comando sin salir de la consola</h2>
+<h3>"GRANT ALL ON bbdd.* to 'usuario'@'localhost';"</h3>
+
+<h2>Ahora ya hemos acabado con la base de datos, solo nos queda salir de ella usando el siguiente comando</h2>
