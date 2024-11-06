@@ -47,5 +47,9 @@ Escribe la contraseña que utilices para entrar al usuario del pc
 
 <h2>Una vez hemos creado el usuario es necesario darle permisos de administrador, para ello utilizamos el siguiente comando sin salir de la consola</h2>
 <h3>"GRANT ALL ON bbdd.* to 'usuario'@'localhost';"</h3>
+<h2>Si todos los pasos se han realizado correctamente tendria que verse algo asi</h2>
 
-<h2>Ahora ya hemos acabado con la base de datos, solo nos queda salir de ella usando el siguiente comando</h2>
+<img src="imatge.jpg" alt="Descripció de la imatge">
+
+<h2>Ahora ya hemos acabado con la base de datos, solo nos queda salir de ella usando el siguiente sencillo comando</h2>
+<h3>"exit"</h3>
