@@ -98,3 +98,10 @@ Esto significa que esta dentro del directorio
 <h3>"sudo apt install software-properties-common -y"</h3> Instalar los requisitos previos de PPA
 <h3>"LC_ALL=C.UTF-8 sudo add-apt-repository ppa:ondrej/php -y"</h3> Instalar las herramientas necesarias para trabajar con PPA
 <h3>"sudo apt update"</h3> Actualizar el repositorio
+<ul>
+    <li><h3>"sudo apt install php7.4 -y"</h3></li>
+    <li><h3>"sudo apt install -y php libapache2-mod-php7.4"</h3></li>
+    <li><h3>"sudo apt install -y php7.4-fpm php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-gd php7.4-xml php7.4-intl php7.4-mysql php7.4-cli php7.4-ldap php7.4-zip php7.4-curl"</h3></li>
+    Instalar librerias de PHP de la versión 7.4
+</ul>
+
