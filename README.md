@@ -118,6 +118,3 @@ Esto significa que esta dentro del directorio
 
 <h2>Po ultimo una vez instalada la vesión debemos entrar al siguiente link y configurar la cloud con la contraseña, nombre de usuario, etc</h2>
 <h3>"http://localhost"</h3>
-
-
-
