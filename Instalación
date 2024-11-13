@@ -1,3 +1,8 @@
+<ol>
+    <li>"sudo apt update"</li>
+    <li>Segon element</li>
+</ol>
+
 sudo apt update
 sudo apt upgrade
 sudo apt install -y apache2
