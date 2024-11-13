@@ -68,11 +68,16 @@ Una vez ejecutado el comando te pedirá una contraseña, escribe la contraseña 
 
 <h3>"https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip"</h3>
 
-<h2>Una vez descargado utilizaremos el siguiente comando para descomprimir en el directorio /var/www/html los archivos de la aplicación web. Tienes que substituir "app-web.zip" por el nombre del archivo que has descargado y tambien sustituye "app-web" por el nombre de la carpeta donde se haya creado. Por ultimo recuerda que se da por hecho que el idioma de su PC es español, en caso de que no lo sea donde pone "Descargas" debera cambiarlo por la palabra traducida al idioma en el que tenga el PC</h2>
+<h2>Una vez descargado utilizaremos los siguientes comandos para descomprimir en el directorio /var/www/html los archivos de la aplicación web. En el siguiente comando tienes que substituir "Nombre del archivo" por el nombre del archivo que has descargado con el enlace anterior, por ultimo recuerda que se da por hecho que el idioma de su PC es español, en caso de que no lo sea donde pone "Descargas" debera cambiarlo por la palabra traducida al idioma en el que tenga el PC</h2>
 
-<h3>sudo cp ~/Descargas/app-web.zip /var/www/html</h3>
+<h3>sudo cp ~/Descargas/Nombre del archivo /var/www/html</h3>
 
-<h2>El siguiente paso es entrar en el directorio /var/www/html</h2>
+<h2>El siguiente paso es entrar en el directorio /var/www/html con el siguiente comando</h2>
 <h3>"cd /var/www/html"</h3>
 Esto significa que esta dentro del directorio
 <img src="Entrao en el directorio.png" alt="Significa que estas dentro del directorio">
+
+<h2>Una vez en el directorio descomprimimos los archivos con este comando pero de nuevo hay que cambiar el "Nombre del archivo" por el nombre del archivo que se ha creado anteriormente con la aplicacion web</h2>
+<h3>"sudo unzip "Nombre del archivo"</h3> 
+
+
