@@ -94,7 +94,7 @@ Esto significa que esta dentro del directorio
 <h3>"sudo chmod -R 775 ."</h3>
 <h3>"sudo chown -R usuario:www-data ."</h3>
 
-<h2>Por ultimo debemos instalar la vesión 7.4 de PHP a Ubuntu 24.04. Para ello utilizaremos los siguientes comandos para realizar las siguientes funciones</h2>
+<h2>Para el siguiente paso debemos instalar la vesión 7.4 de PHP a Ubuntu 24.04. Para ello utilizaremos los siguientes comandos para realizar las siguientes funciones</h2>
 <h3>"sudo apt install software-properties-common -y"</h3> Instalar los requisitos previos de PPA
 <h3>"LC_ALL=C.UTF-8 sudo add-apt-repository ppa:ondrej/php -y"</h3> Instalar las herramientas necesarias para trabajar con PPA
 <h3>"sudo apt update"</h3> Actualizar el repositorio
@@ -104,4 +104,20 @@ Esto significa que esta dentro del directorio
     <li><h3>"sudo apt install -y php7.4-fpm php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-gd php7.4-xml php7.4-intl php7.4-mysql php7.4-cli php7.4-ldap php7.4-zip php7.4-curl"</h3></li>
     Instalar librerias de PHP de la versión 7.4
 </ul>
+
+<h2>Ahora tendras que utilizar el siguiente comando para seleccionar que versión quieres, despues de usarlo escoge la versión</h2>
+<h3>"sudo update-alternatives --config php"</h3> Seleccionar la versión de PHP que quieras
+
+<ul>
+    <li><h3>"sudo a2enmod proxy_fcgi setenvif"</h3></li>
+    <li><h3>"sudo a2enconf php7.4-fpm"</h3></li>
+    Activar los modulos de apache2 necesarios
+</ul>
+
+<h3>"sudo service apache2 restart"</h3> Reiniciar apache2
+
+<h2>Po ultimo una vez instalada la vesión debemos entrar al siguiente link y configurar la cloud con la contraseña, nombre de usuario, etc</h2>
+<h3>"http://localhost"</h3>
+
+
 
