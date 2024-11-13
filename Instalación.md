@@ -7,4 +7,18 @@
     <li>"sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl"</li>
     <li>"sudo systemctl restart apache2"</li>
     <li>"sudo mysql"</li>
+    <li>"CREATE DATABASE bbdd;"</li>
+    <li>"CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';"</li>
+    <li>"GRANT ALL ON bbdd.* to 'usuario'@'localhost';"</li>
+    <li>"exit"</li>
+    <li>"mysql -u usuario -p"</li>
+    <li>"sudo cp ~/Descargas/"Nombre del archivo" /var/www/html</li>
+    <li>"cd /var/www/html"</li>
+    <li>"sudo unzip "Nombre del archivo"</li>
+    <li>"sudo cp -R "Nombre de la carpeta"/. /var/www/html"</li>
+    <li>"sudo rm -rf "Nombre de la carpeta"/"</li>
+    <li>"sudo rm -rf /var/www/html/index.html"</li>
+    <li>"cd /var/www/html"</li>
+    <li>"sudo chmod -R 775 ."</li>
+    <li>"sudo chown -R usuario:www-data ."</li>
 </ol>
