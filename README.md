@@ -80,4 +80,7 @@ Esto significa que esta dentro del directorio
 <h2>Una vez en el directorio descomprimimos los archivos con este comando pero de nuevo hay que cambiar el "Nombre del archivo" por el nombre del archivo que se ha creado anteriormente con la aplicacion web</h2>
 <h3>"sudo unzip "Nombre del archivo"</h3> 
 
+<h2>Una vez descomprimidos toca copiar los archivos en la carpeta "/var/www/html". Para ello utiliza el siguiente comando pero recuerda que tienes que substituir "Nom del directori" por el nombre de la carpeta donde se ha descomprimido el archivo</h2>
+<h3>"sudo cp -R "Nom del directori"/. /var/www/html"</h3>
+
 
