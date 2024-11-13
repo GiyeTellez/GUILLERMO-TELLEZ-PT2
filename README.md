@@ -41,6 +41,8 @@ Escribe la contraseña que utilices para entrar al usuario del pc
   
   No hay que olvidarnos de que se tiene que identificar la IP desde donde se accedera a la base de datos. En este caso "localhost" Para ello usa el siguiente comando</h2>
 <h3>"CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';"</h3>
+La contraseña que escribas entre las ''sera la contraseña de tu base de datos
+<img src="Onde Ta la contraseña.png" alt="Ahi esta la contraseña">
 
 <h2>Todavia dentro de la consola tendria que verse algo así...
   <img src="Screen despues de crear el usuario.png" alt="Captura de la consola despues de crear el user">
@@ -53,3 +55,8 @@ Escribe la contraseña que utilices para entrar al usuario del pc
 
 <h2>Ahora ya hemos acabado con la base de datos, solo nos queda salir de ella usando el siguiente sencillo comando</h2>
 <h3>"exit"</h3>
+
+<h2>Con la intención de comprobar que sea posible entrar a la base de datos usando la contraseña que anteriormente hemos decidido utilizaremos el siguiente comando</h2>
+<h3>"mysql -u usuario -p"</h3>
+Una vez ejecutado el comando te pedirá una contraseña, escribe la contraseña que pusiste anteriormente
+<img src="Onde Ta la contraseña.png" alt="Ahi esta la contraseña">
