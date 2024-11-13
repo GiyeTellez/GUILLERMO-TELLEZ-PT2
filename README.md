@@ -86,7 +86,10 @@ Esto significa que esta dentro del directorio
 <h2>Ahora debemos eliminar la carpeta que ya esta descomprimida, usa el siguiente comando pero recuerda cambiar "Nombre de la carpeta" por el nombre de tu carpeta</h2>
 <h3>"sudo rm -rf "Nombre de la carpeta"/"</h3>
 
-<h2>Ahora elimina el archivo con el siguiente comando</h2>
+<h2>Ahora elimina el archivo index.html del apache2 con el siguiente comando</h2>
 <h3>"sudo rm -rf /var/www/html/index.html"</h3>
 
-
+<h2>Es necesario aplicar permisos a nuestras aplicaciones web, para ello utilizaremos el primer comando para entrar en "/var/www/html" y posteriormente los dos siguientes para aplicar los permisos</h2>
+<h3>"cd /var/www/html"</h3>
+<h3>"sudo chmod -R 775 ."</h3>
+<h3>"sudo chown -R usuario:www-data ."</h3>
