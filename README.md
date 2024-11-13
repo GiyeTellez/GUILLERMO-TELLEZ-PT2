@@ -83,4 +83,10 @@ Esto significa que esta dentro del directorio
 <h2>Una vez descomprimidos toca copiar los archivos en la carpeta "/var/www/html". Para ello utiliza el siguiente comando pero recuerda que tienes que substituir "Nom del directori" por el nombre de la carpeta donde se ha descomprimido el archivo</h2>
 <h3>"sudo cp -R "Nom del directori"/. /var/www/html"</h3>
 
+<h2>Ahora debemos eliminar la carpeta que ya esta descomprimida, usa el siguiente comando pero recuerda cambiar "Nombre de la carpeta" por el nombre de tu carpeta</h2>
+<h3>"sudo rm -rf "Nombre de la carpeta"/"</h3>
+
+<h2>Ahora elimina el archivo con el siguiente comando</h2>
+<h3>"sudo rm -rf /var/www/html/index.html"</h3>
+
 
