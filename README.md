@@ -1,3 +1,4 @@
-Manual de configuración: <a href="Manual de configuración OWNCLOUD.md">Manual de configuración</a>
+Manual de configuración de OWNCLOUD: <a href="Manual de configuración OWNCLOUD.md">Manual de configuración</a>
 
-Instalación OWNCLOUD: 
+Instalación OWNCLOUD:  <a href="Instalación OWNCLOUD.md">Instalación</a>
+
