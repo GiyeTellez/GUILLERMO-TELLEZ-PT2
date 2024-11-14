@@ -1,3 +1,3 @@
-Manual de configuración OWNCLOUD:  Manual de configuración OWNCLOUD.md
+Manual de configuración OWNCLOUD: 
 
 Instalación OWNCLOUD: 
