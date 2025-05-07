@@ -59,7 +59,7 @@ La contraseña que escribas entre las ''sera la contraseña de tu base de datos
 <h2>Con la intención de comprobar que sea posible entrar a la base de datos usando la contraseña que anteriormente hemos decidido utilizaremos el siguiente comando</h2>
 <h3>"mysql -u usuario -p"</h3>
 Una vez ejecutado el comando te pedirá una contraseña, escribe la contraseña que pusiste anteriormente
-<img src="Onde Ta la contraseña.png" alt="Ahi esta la contraseña">
+<img src="Captura desde 2025-05-07 19-56-31.png" alt="mysql -u usuario -p">
 
 <h2>Salgamos de la base de datos para continuar con el siguiente paso usando el comando</h2>
 <h3>"exit"</h3>
