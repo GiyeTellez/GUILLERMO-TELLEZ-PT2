@@ -8,6 +8,4 @@
     <li>base de datos: bbdd</li>
     <li>dominio: localhost</li>
 </ol>
-<img src="Captura desde 2025-05-07 20-30-10.png" alt="Descripció de la imatge">
 <img src="Captura desde 2025-05-07 20-39-24.png" alt="Descripció de la imatge">
-
