@@ -10,13 +10,13 @@
 </ol>
 <img src="Captura desde 2025-05-07 20-39-24.png" alt="Credenciales puestas">
 
-<h2>Una vez dentro de la Owncloud podemos usar la opcion "Upload folder" para subir una carpeta
+<h2>Una vez dentro de la Owncloud podemos usar hace clic en el icono de "+" y seleccionar la opcion "Folder" para subir una carpeta</h2>
 <img src="Captura desde 2025-05-08 12-06-41.png" alt="Upload folder">
 
-<h2>Se desplegará un cuadro de texto donde tendras que escribir el nombre de la carpeta
+<h2>Se desplegará un cuadro de texto donde tendras que escribir el nombre de la carpeta</h2>
 <img src="Captura desde 2025-05-08 12-09-08.png" alt="Ponemos nombre a la carpeta">
 
-<h2>Una vez tenemos la carpeta creada tenemos que hacer clic en ella para entrar
+<h2>Una vez tenemos la carpeta creada tenemos que hacer clic en ella para entrar</h2>
 <h3>NOTA: LA FILA DE ARRIBA INDICA LA CARPETA EN LA QUE TE ENCUENTRAS<h/3>
 <img src="Captura desde 2025-05-08 13-21-29.png " alt="Fila de carpetas">
 
