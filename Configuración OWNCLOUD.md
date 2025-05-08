@@ -43,12 +43,27 @@
 <img src="Captura desde 2025-05-08 17-48-10.png" alt="Captura icono compartir">
 
 <h3> 1. Creando un link<h/3>
-<h4>Hacemos clic en "create link"</h4>
-<img src="Captura desde 2025-05-08 17-53-57.png" alt="Create link">
-<h4>Si hacemos clic en "create link" se nos abre un menu de opciones para crear un link con direccion a nuestra carpeta"</h4>
-<img src="Captura desde 2025-05-08 18-10-42.png" alt="Link creado">
+<ol>
+    <h4>Hacemos clic en "create link"</h4>
+    <img src="Captura desde 2025-05-08 17-53-57.png" alt="Create link">
+    <h4>Si hacemos clic en "create link" se nos abre un menu de opciones para crear un link con direccion a nuestra carpeta"</h4>
+    <img src="Captura desde 2025-05-08 18-10-42.png" alt="Link creado">
+    <h4>Una vez jhemos creado el link tenemos varias opciones, elimina, editar, compart y la mas importante de todas para compartir. Copiar</h4>
+    <img src="Captura desde 2025-05-08 18-25-21.png" alt="Copiar el link">
+    <h3>Compartiendo con un usuario</h3>
+    no se, cosas
 
+</ol>
 
+<h2>GESTIONAR USUARIOS</h2>
 
-<h3>Compartiendo con un usuario</h3>
-no se, cosas
+<h4> Si hacemos clic en la esquina superior derecha donde pone el nombre de usuario se nos desplegaran 3 opciones a seleccionar. Hagamos clic en "users" para gestionar usuarios"</h4>
+
+<img src="Captura de pantalla 2025-05-08 192726.png" alt="Usuarios">
+
+<h4> A continación veras a la izquierda un filtro de usuarios. Ademas hay una fila arriba donde podemos añadir usuarios escribiendo su nombre de usuario en "Username" y su correo electronico en el espacio de la derecha</h4>
+<img src="Captura desde 2025-05-08 19-54-32.png" alt="Gestion de usuarios"> 
+
+<h4>Una vez rellenados los espacios hacemos clic en "create user"</h4>
+<img src="Captura desde 2025-05-08 20-04-26.png" alt="Espacios rellenados para crear usuario">
+
