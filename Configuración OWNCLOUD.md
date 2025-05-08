@@ -38,8 +38,15 @@
 <img src="Captura desde 2025-05-08 13-00-12.png" alt="Seleccionar upload fuera de la carpeta">
 <img src="Captura desde 2025-05-08 17-45-13.png" alt="Seleccionar upload fuera de la carpeta">
 
-<h3>Si hacemos clic en el icono de compartir que aparece en cada carpeta/archivo se nos desplegara un pequeño menu para compartir el archivo/carpeta escogido<h/3>
+<h2> COMPARTIR CONTENIDO </h2>
+<h3>Si hacemos clic en el icono de compartir que aparece en cada carpeta/archivo se nos desplegara un pequeño menu para compartir el archivo/carpeta escogido. Tenemos dos opciones de compartir contenido<h/3>
 <img src="Captura desde 2025-05-08 17-48-10.png" alt="Captura icono compartir">
 
-<h3>Tenemos dos opciones de compartir cada carpeta o archivo. Creando un link<h/3>
-<img src="Captura desde 2025-05-08 17-53-57.png" alt="Create link">
+<ol> 
+    <h3>Creando un link<h/3>
+        <img src="Captura desde 2025-05-08 17-53-57.png" alt="Create link">
+        <h3>Si hacemos clic en "create link" se nos abre un menu de opciones para crear un link con direccion a nuestra carpeta"
+        <img src="Captura desde 2025-05-08 18-10-42.png" alt="Link creado"> 
+    <h3>Compartiendo con un usuario</h3>
+        no se, cosas
+</ol>
