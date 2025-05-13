@@ -67,3 +67,12 @@
 <h4>Una vez rellenados los espacios hacemos clic en "create user"</h4>
 <img src="Captura desde 2025-05-08 20-04-26.png" alt="Espacios rellenados para crear usuario">
 
+<h4>Para crear grupos hacemos clic en la parte izquierda de la pantalla donde pone "Add group"</h4>
+<img src="Captura desde 2025-05-13 17-08-26.png" alt="Add group">
+
+<h4>Grupo creado</h4>
+<img src="Captura desde 2025-05-13 17-10-33.png" alt="group creado">
+
+<h4>Podemos assignar nuestros grupos a los usuarios haciendo clic en la columna de "Groups" y seleccionando el grupo que queramos</h4>
+<img src="Captura desde 2025-05-13 17-11-50.png" alt="Asignar rol">
+
