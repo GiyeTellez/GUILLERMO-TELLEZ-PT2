@@ -119,3 +119,6 @@ Esto significa que esta dentro del directorio
 
 <h2>Po ultimo una vez instalada la vesión debemos entrar al siguiente link y configurar la cloud con la contraseña, nombre de usuario, etc</h2>
 <h3>"http://localhost"</h3>
+
+<h1>Una vez instalado la Owcloud es momento de configurarla. Haz clic en el link para ver el manual de configuración</h1>
+<a href="Configuración OWNCLOUD.md">Configuración</a>
