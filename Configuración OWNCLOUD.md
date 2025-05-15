@@ -1,5 +1,5 @@
 <h1>CONFIGURACIÓN DE OWNCLOUD<h/1>
-    
+    <h2>En cualquier navegador busca "http://localhost/"</h2>
 <h4>Una vez instalada la Owncloud es momento de configurarla.</h4> 
 <h4>Primero de todo y antes que nada, hemos de acceder a ella con las siguientes credenciales. (Si no has modificado la información del manual)</h4>
 <ol>
@@ -10,7 +10,7 @@
 </ol>
 <img src="Captura desde 2025-05-07 20-39-24.png" alt="Credenciales puestas">
 
-<h3> GESTIONAR CARPETAS Y ARCHIVOS </h3>
+<h2> GESTIONAR CARPETAS Y ARCHIVOS </h2>
 <h4>Una vez dentro de la Owncloud podemos usar hace clic en el icono de "+" y seleccionar la opcion "Folder" para subir una carpeta</h4>
 <img src="Captura desde 2025-05-08 12-06-41.png" alt="Upload folder">
 
