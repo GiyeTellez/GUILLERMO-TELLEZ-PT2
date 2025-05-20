@@ -6,6 +6,9 @@
 <h2>Escogemos el sistema operativo y la versión "ubuntu-24.04-desktop" y hacemos clic en "Crear" una vez hayamos escrito el nombre</h2>
 <img src="imagen_2025-05-20_172518266.png" alt="IsardVDI">
 
+<h2>Una vez creada buscamos nuestra maquina y hacemos clic en inicar > Abrir desde navegador para entrar.</h2>
+<img src="imagen_2025-05-20_173152812.png" alt="IsardVDI">
+
 <h2>Una vez dentro abrimos la terminal desde nuestro dispositivo</h2>
   Actualizamos nuestra maquina usando los siguientes comandos en la terminal
 <ol>  
