@@ -12,10 +12,14 @@ Todas el contenido fue realizado en una maquina virtual de IsardVDI. Concretamen
 ## Descripción del proyecto
 
 El objetivo de esta práctica es:
-1. Configurar para alojar ownCloud.
+1. Configurar una maquina en IsardVDI para alojar ownCloud.
 2. Instalar y poner en marcha ownCloud (Apache, PHP, MySQL).
 3. Crear usuarios con distintos roles (administrador, editor, visualizador) y asignar permisos.
 4. Probar funcionalidades básicas: subida de archivos, creación de carpetas, organización y compartición.
+
+## Obstaculos detectados
+A la hora de instalar la nube hay que escibir correctamente todos los comandos y asegurarse de que el nombre de las carpetas es correcto. En caso contrario dara error o no se ejecutará correctamente la acción
+
 
 # Manuales:
 
