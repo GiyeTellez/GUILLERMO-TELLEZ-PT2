@@ -1,5 +1,8 @@
 <h1>MANUAL PARA INSTALAR OWNCLOUD EN UBUNTU</h1>
 
+<h2>Primero de todo tenemos que entrar en la paguina de IsardVDI y hacer clic en "Escriptori nou" para crear nuestra maquina</h2>
+<img src="Captura de pantalla 2025-05-20 172806.png" alt="Escriptori nou">
+
 <h2>Escogemos el sistema operativo y la versión "ubuntu-24.04-desktop" y hacemos clic en "Crear" una vez hayamos escrito el nombre</h2>
 <img src="imagen_2025-05-20_172518266.png" alt="IsardVDI">
 
