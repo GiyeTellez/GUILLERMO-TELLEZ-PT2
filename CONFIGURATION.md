@@ -45,10 +45,12 @@
 <ol>
     <h4>Hacemos clic en "create link"</h4>
     <img src="Captura desde 2025-05-08 17-53-57.png" alt="Create link">
-    <h4>Si hacemos clic en "create link" se nos abre un menú de opciones para crear un link con dirección a nuestra carpeta"</h4>
+    <h4>Si hacemos clic en "create link" se nos abre un menú de opciones para crear un link con dirección a nuestra carpeta"</h4>Help?
     <img src="Captura desde 2025-05-08 18-10-42.png" alt="Link creado">
     <h4>Una vez hemos creado el link tenemos varias opciones, elimina, editar, compartir y la más importante de todas para compartir. Copiar</h4>
     <img src="Captura desde 2025-05-08 18-25-21.png" alt="Copiar el link">
+    <h4>Tambien podemos seleccionar una fecha de expiración del enlace para que asi nos aseguramos que nadie guarda el enlace para usarlo mucho tiempo despues</h4>
+    <img src="Captura desde 2025-05-21 11-58-43.png" alt="Choose a expiration date"> 
 </ol>
 
 <h2>GESTIONAR USUARIOS</h2>
